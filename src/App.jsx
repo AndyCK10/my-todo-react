@@ -10,7 +10,7 @@ import Checkbox from "./components/Checkbox";
 import { IconA, IconB } from './components/Icon';
 import VideoPlayer from './components/Video'
 
-const BASE_URL = 'https://662371883e17a3ac846f42b6.mockapi.io'
+const BASE_URL = 'https://664829ba2bb946cf2f9fc3f1.mockapi.io'
 
 function App() {
   const [count, setCount] = useState(0)
